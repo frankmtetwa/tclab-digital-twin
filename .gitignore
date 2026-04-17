@@ -1,0 +1,16 @@
+# Data and Logs
+data/
+src/data/
+*.csv
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+env/
+.env
+.conda/

@@ -1,0 +1,11 @@
+{
+    "U": 2.0120204201,
+    "alpha1": 0.0077223722552,
+    "alpha2": 0.0071901404726,
+    "A": 0.001,
+    "As": 0.0003,
+    "mCp": 2.5,
+    "epsilon": 0.9,
+    "sigma": 5.67e-08,
+    "note": "Parameters re-estimated using GEKKO from latest dataset."
+}

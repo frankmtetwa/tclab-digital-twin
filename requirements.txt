@@ -1,0 +1,7 @@
+gekko
+tclab
+numpy
+pandas
+matplotlib
+pyserial
+scipy
