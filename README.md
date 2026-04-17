@@ -11,7 +11,15 @@ This project implements a **Digital Twin** of the Temperature Control Lab (TCLab
 ## Workflow: Getting Started
 
 ### 1. Installation
-Ensure you have the necessary dependencies installed:
+Choose your preferred environment manager:
+
+**Using Conda (Recommended):**
+```bash
+conda env create -f environment.yml
+conda activate tclab_twin
+```
+
+**Using Pip:**
 ```bash
 pip install -r requirements.txt
 ```
